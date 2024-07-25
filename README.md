@@ -27,12 +27,12 @@ Welcome to the Waffle Shop Management System! This application is designed to he
 - Database:<br>![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## UI Preview
-- Login<br>![01](https://github.com/user-attachments/assets/468x300/adbd42cc-5cc8-4d7f-92ae-3f7ef6c582bd)
-- Signup<br>![02](https://github.com/user-attachments/assets/468x300/692d8fa4-dc9b-4e38-86cf-f523ab4225ab)
-- Dashboard<br>![03](https://github.com/user-attachments/assets/468x300/4e5785ae-11e2-40e6-adb8-f3ca542a03bc)
-- Inventory<br>![04](https://github.com/user-attachments/assets/468x300/af24ccf6-92aa-4ef5-9572-587e4297c683)
-- Menu<br>![05](https://github.com/user-attachments/assets/468x300/4ba53341-841a-4d3e-b2b1-52dfbd66a9a0)
-- Signout<br>![06](https://github.com/user-attachments/assets/468x300/f5fa9f01-d968-44d3-9278-d197ae401e31)
+- ## Login ## <br><br>![01](https://github.com/user-attachments/assets/adbd42cc-5cc8-4d7f-92ae-3f7ef6c582bd)
+- ## Signup ## <br><br>![02](https://github.com/user-attachments/assets/692d8fa4-dc9b-4e38-86cf-f523ab4225ab)
+- ## Dashboard ## <br><br>![03](https://github.com/user-attachments/assets/4e5785ae-11e2-40e6-adb8-f3ca542a03bc)
+- ## Inventory ## <br><br>![04](https://github.com/user-attachments/assets/af24ccf6-92aa-4ef5-9572-587e4297c683)
+- ## Menu ## <br><br>![05](https://github.com/user-attachments/assets/4ba53341-841a-4d3e-b2b1-52dfbd66a9a0)
+- ## SignOut ## <br><br>![06](https://github.com/user-attachments/assets/f5fa9f01-d968-44d3-9278-d197ae401e31)
 
 
 ## License
